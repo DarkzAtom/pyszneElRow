@@ -1,0 +1,3393 @@
+2024-10-02 23:15:18,788 - DEBUG - Using proactor: IocpProactor
+2024-10-02 23:17:54,761 - DEBUG - Using proactor: IocpProactor
+2024-10-02 23:24:49,816 - DEBUG - Using proactor: IocpProactor
+2024-10-02 23:26:14,906 - DEBUG - Using proactor: IocpProactor
+2024-10-02 23:27:41,612 - DEBUG - Using proactor: IocpProactor
+2024-10-02 23:27:51,825 - ERROR - error running webinstance: Locator.click: Error: strict mode violation: locator("div.dropdown_pill") resolved to 2 elements:
+    1) <div class="dropdown_pill">�</div> aka locator("#mobileHeader div").filter(has_text="Twoje miasto")
+    2) <div class="dropdown_pill">�</div> aka locator("#desktopHeader div").filter(has_text="Twoje miasto")
+
+Call log:
+waiting for locator("div.dropdown_pill")
+
+2024-10-02 23:28:32,026 - DEBUG - Using proactor: IocpProactor
+2024-10-02 23:29:41,739 - DEBUG - Using proactor: IocpProactor
+2024-10-02 23:30:29,950 - DEBUG - Using proactor: IocpProactor
+2024-10-02 23:30:36,027 - ERROR - error running webinstance: Locator.click: Error: strict mode violation: locator("div.dropdown_pill") resolved to 2 elements:
+    1) <div class="dropdown_pill">�</div> aka locator("#mobileHeader div").filter(has_text="Twoje miasto")
+    2) <div class="dropdown_pill">�</div> aka locator("#desktopHeader div").filter(has_text="Twoje miasto")
+
+Call log:
+waiting for locator("div.dropdown_pill")
+
+2024-10-02 23:31:46,550 - DEBUG - Using proactor: IocpProactor
+2024-10-02 23:39:03,202 - DEBUG - Using proactor: IocpProactor
+2024-10-02 23:39:09,375 - ERROR - error running webinstance: 'method' object is not iterable
+2024-10-02 23:39:17,236 - DEBUG - Using proactor: IocpProactor
+2024-10-02 23:39:23,015 - ERROR - error running webinstance: 'coroutine' object is not iterable
+2024-10-02 23:40:53,722 - DEBUG - Using proactor: IocpProactor
+2024-10-02 23:40:59,753 - ERROR - error running webinstance: 'coroutine' object is not iterable
+2024-10-02 23:53:39,065 - DEBUG - Using proactor: IocpProactor
+2024-10-02 23:54:24,366 - DEBUG - Using proactor: IocpProactor
+2024-10-02 23:55:08,564 - DEBUG - Using proactor: IocpProactor
+2024-10-02 23:55:14,601 - ERROR - error running webinstance: 'coroutine' object has no attribute 'text_content'
+2024-10-02 23:55:31,147 - DEBUG - Using proactor: IocpProactor
+2024-10-02 23:56:14,665 - DEBUG - Using proactor: IocpProactor
+2024-10-02 23:57:57,934 - DEBUG - Using proactor: IocpProactor
+2024-10-02 23:59:55,616 - DEBUG - Using proactor: IocpProactor
+2024-10-03 00:01:37,244 - DEBUG - Using proactor: IocpProactor
+2024-10-03 00:03:08,801 - DEBUG - Using proactor: IocpProactor
+2024-10-03 00:04:58,796 - DEBUG - Using proactor: IocpProactor
+2024-10-03 00:05:30,055 - DEBUG - Using proactor: IocpProactor
+2024-10-03 00:05:36,716 - ERROR - error running webinstance: 'coroutine' object has no attribute 'nth'
+2024-10-03 00:06:02,547 - DEBUG - Using proactor: IocpProactor
+2024-10-03 04:24:14,379 - DEBUG - Using proactor: IocpProactor
+2024-10-03 04:24:53,629 - DEBUG - Using proactor: IocpProactor
+2024-10-03 04:28:50,545 - DEBUG - Using proactor: IocpProactor
+2024-10-03 04:29:31,538 - DEBUG - Using proactor: IocpProactor
+2024-10-03 04:31:21,254 - DEBUG - Using proactor: IocpProactor
+2024-10-03 04:32:19,204 - DEBUG - Using proactor: IocpProactor
+2024-10-03 04:37:14,783 - DEBUG - Using proactor: IocpProactor
+2024-10-06 14:57:59,617 - DEBUG - Using proactor: IocpProactor
+2024-10-06 14:58:37,857 - ERROR - error running webinstance: Locator.click: Timeout 30000ms exceeded.
+Call log:
+waiting for locator("div.dropdown_pill").nth(1)
+  -   locator resolved to <div class="dropdown_pill">�</div>
+  - attempting click action
+  -   waiting for element to be visible, enabled and stable
+  -   element is not visible
+  - retrying click action, attempt #1
+  -   waiting for element to be visible, enabled and stable
+  -   element is not visible
+  - retrying click action, attempt #2
+  -   waiting 20ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not visible
+  - retrying click action, attempt #3
+  -   waiting 100ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not visible
+  - retrying click action, attempt #4
+  -   waiting 100ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not visible
+  - retrying click action, attempt #5
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not visible
+  - retrying click action, attempt #6
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not visible
+  - retrying click action, attempt #7
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not visible
+  - retrying click action, attempt #8
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not visible
+  - retrying click action, attempt #9
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not visible
+  - retrying click action, attempt #10
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not visible
+  - retrying click action, attempt #11
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not visible
+  - retrying click action, attempt #12
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not visible
+  - retrying click action, attempt #13
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not visible
+  - retrying click action, attempt #14
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not visible
+  - retrying click action, attempt #15
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not visible
+  - retrying click action, attempt #16
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not visible
+  - retrying click action, attempt #17
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not visible
+  - retrying click action, attempt #18
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not visible
+  - retrying click action, attempt #19
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not visible
+  - retrying click action, attempt #20
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not visible
+  - retrying click action, attempt #21
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not visible
+  - retrying click action, attempt #22
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not visible
+  - retrying click action, attempt #23
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not visible
+  - retrying click action, attempt #24
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not visible
+  - retrying click action, attempt #25
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not visible
+  - retrying click action, attempt #26
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not visible
+  - retrying click action, attempt #27
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not visible
+  - retrying click action, attempt #28
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not visible
+  - retrying click action, attempt #29
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not visible
+  - retrying click action, attempt #30
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not visible
+  - retrying click action, attempt #31
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not visible
+  - retrying click action, attempt #32
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not visible
+  - retrying click action, attempt #33
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not visible
+  - retrying click action, attempt #34
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not visible
+  - retrying click action, attempt #35
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not visible
+  - retrying click action, attempt #36
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not visible
+  - retrying click action, attempt #37
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not visible
+  - retrying click action, attempt #38
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not visible
+  - retrying click action, attempt #39
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not visible
+  - retrying click action, attempt #40
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not visible
+  - retrying click action, attempt #41
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not visible
+  - retrying click action, attempt #42
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not visible
+  - retrying click action, attempt #43
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not visible
+  - retrying click action, attempt #44
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not visible
+  - retrying click action, attempt #45
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not visible
+  - retrying click action, attempt #46
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not visible
+  - retrying click action, attempt #47
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not visible
+  - retrying click action, attempt #48
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not visible
+  - retrying click action, attempt #49
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not visible
+  - retrying click action, attempt #50
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not visible
+  - retrying click action, attempt #51
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not visible
+  - retrying click action, attempt #52
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not visible
+  - retrying click action, attempt #53
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not visible
+  - retrying click action, attempt #54
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not visible
+  - retrying click action, attempt #55
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not visible
+  - retrying click action, attempt #56
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not visible
+  - retrying click action, attempt #57
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not visible
+  - retrying click action, attempt #58
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not visible
+  - retrying click action, attempt #59
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not visible
+  - retrying click action, attempt #60
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not visible
+  - retrying click action, attempt #61
+  -   waiting 500ms
+
+2024-10-06 14:59:32,225 - DEBUG - Using proactor: IocpProactor
+2024-10-06 14:59:54,033 - DEBUG - Using proactor: IocpProactor
+2024-10-06 15:00:34,451 - DEBUG - Using proactor: IocpProactor
+2024-10-06 15:00:51,159 - DEBUG - Using proactor: IocpProactor
+2024-10-06 15:00:57,389 - ERROR - error running webinstance: Locator.click: Error: strict mode violation: locator("div.dropdown_pill") resolved to 2 elements:
+    1) <div class="dropdown_pill">�</div> aka locator("#mobileHeader div").filter(has_text="Twoje miasto")
+    2) <div class="dropdown_pill">�</div> aka locator("#desktopHeader div").filter(has_text="Twoje miasto")
+
+Call log:
+waiting for locator("div.dropdown_pill")
+
+2024-10-06 15:01:38,562 - DEBUG - Using proactor: IocpProactor
+2024-10-06 15:05:58,950 - DEBUG - Using proactor: IocpProactor
+2024-10-06 15:08:14,711 - DEBUG - Using proactor: IocpProactor
+2024-10-06 15:08:31,806 - DEBUG - Using proactor: IocpProactor
+2024-10-06 15:10:41,133 - DEBUG - Using proactor: IocpProactor
+2024-10-06 15:12:29,938 - DEBUG - Using proactor: IocpProactor
+2024-10-06 15:13:40,330 - DEBUG - Using proactor: IocpProactor
+2024-10-06 15:14:24,444 - DEBUG - Using proactor: IocpProactor
+2024-10-06 15:16:33,018 - DEBUG - Using proactor: IocpProactor
+2024-10-06 15:18:11,878 - DEBUG - Using proactor: IocpProactor
+2024-10-06 15:19:13,287 - ERROR - error running webinstance: Timeout 30000ms exceeded.
+2024-10-07 12:00:18,855 - DEBUG - Using proactor: IocpProactor
+2024-10-07 12:01:03,500 - DEBUG - Using proactor: IocpProactor
+2024-10-07 12:01:10,497 - ERROR - error running webinstance: Target page, context or browser has been closed
+2024-10-07 12:02:13,628 - DEBUG - Using proactor: IocpProactor
+2024-10-07 12:02:47,188 - ERROR - error running webinstance: Timeout 30000ms exceeded.
+2024-10-07 12:04:23,568 - DEBUG - Using proactor: IocpProactor
+2024-10-07 12:05:05,884 - DEBUG - Using proactor: IocpProactor
+2024-10-07 12:12:49,101 - DEBUG - Using proactor: IocpProactor
+2024-10-07 12:12:58,311 - ERROR - Can't find an element: object Locator can't be used in 'await' expression
+2024-10-07 12:13:30,651 - ERROR - error running webinstance: Timeout 30000ms exceeded.
+2024-10-07 12:18:38,532 - DEBUG - Using proactor: IocpProactor
+2024-10-07 12:18:47,717 - ERROR - Can't find an element: object Locator can't be used in 'await' expression
+2024-10-07 12:18:54,626 - ERROR - Can't find an element: object Locator can't be used in 'await' expression
+2024-10-07 12:19:01,219 - ERROR - Can't find an element: object Locator can't be used in 'await' expression
+2024-10-07 12:19:07,520 - ERROR - Can't find an element: object Locator can't be used in 'await' expression
+2024-10-07 12:26:27,002 - DEBUG - Using proactor: IocpProactor
+2024-10-07 12:26:35,999 - ERROR - error running webinstance: Error: strict mode violation: locator("input[name=\"age\"]").locator("..").locator("div") resolved to 2 elements:
+    1) <div class="radio__box">�</div> aka locator(".radio__box").first
+    2) <div class="radio__box">�</div> aka locator("label:nth-child(2) > .radio__box")
+
+2024-10-07 12:26:56,405 - DEBUG - Using proactor: IocpProactor
+2024-10-07 12:27:06,977 - ERROR - Can't find an element: object Locator can't be used in 'await' expression
+2024-10-07 12:27:16,123 - DEBUG - Using proactor: IocpProactor
+2024-10-07 12:27:36,604 - ERROR - Can't find an element: object Locator can't be used in 'await' expression
+2024-10-07 12:27:47,885 - ERROR - Can't find an element: object Locator can't be used in 'await' expression
+2024-10-07 12:27:59,031 - ERROR - Can't find an element: object Locator can't be used in 'await' expression
+2024-10-07 12:28:10,162 - ERROR - Can't find an element: object Locator can't be used in 'await' expression
+2024-10-07 12:29:06,836 - DEBUG - Using proactor: IocpProactor
+2024-10-07 12:30:09,346 - DEBUG - Using proactor: IocpProactor
+2024-10-07 12:31:43,048 - DEBUG - Using proactor: IocpProactor
+2024-10-07 12:31:58,083 - ERROR - Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 5000ms
+  - waiting for get_by_text("Firmowy rower")
+
+2024-10-07 12:32:14,411 - ERROR - Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 5000ms
+  - waiting for get_by_text("Firmowy rower")
+
+2024-10-07 12:32:30,584 - ERROR - Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 5000ms
+  - waiting for get_by_text("Firmowy rower")
+
+2024-10-07 12:32:46,694 - ERROR - Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 5000ms
+  - waiting for get_by_text("Firmowy rower")
+
+2024-10-07 12:33:15,036 - DEBUG - Using proactor: IocpProactor
+2024-10-07 12:33:30,379 - ERROR - Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 5000ms
+  - waiting for get_by_text("Firmowy rower")
+
+2024-10-07 12:33:46,492 - ERROR - Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 5000ms
+  - waiting for get_by_text("Firmowy rower")
+
+2024-10-07 12:34:02,407 - ERROR - Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 5000ms
+  - waiting for get_by_text("Firmowy rower")
+
+2024-10-07 12:34:18,642 - ERROR - Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 5000ms
+  - waiting for get_by_text("Firmowy rower")
+
+2024-10-07 12:34:34,773 - ERROR - Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 5000ms
+  - waiting for get_by_text("Firmowy rower")
+
+2024-10-07 12:34:50,901 - ERROR - Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 5000ms
+  - waiting for get_by_text("Firmowy rower")
+
+2024-10-07 12:35:07,016 - ERROR - Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 5000ms
+  - waiting for get_by_text("Firmowy rower")
+
+2024-10-07 12:35:23,397 - ERROR - Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 5000ms
+  - waiting for get_by_text("Firmowy rower")
+
+2024-10-07 12:35:39,852 - ERROR - Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 5000ms
+  - waiting for get_by_text("Firmowy rower")
+
+2024-10-07 12:35:55,857 - ERROR - Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 5000ms
+  - waiting for get_by_text("Firmowy rower")
+
+2024-10-07 12:36:11,885 - ERROR - Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 5000ms
+  - waiting for get_by_text("Firmowy rower")
+
+2024-10-07 12:36:27,675 - ERROR - Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 5000ms
+  - waiting for get_by_text("Firmowy rower")
+
+2024-10-07 12:36:43,935 - ERROR - Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 5000ms
+  - waiting for get_by_text("Firmowy rower")
+
+2024-10-07 12:37:04,731 - ERROR - Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 5000ms
+  - waiting for get_by_text("Firmowy rower")
+
+2024-10-07 12:37:20,951 - ERROR - Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 5000ms
+  - waiting for get_by_text("Firmowy rower")
+
+2024-10-07 12:37:37,517 - ERROR - Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 5000ms
+  - waiting for get_by_text("Firmowy rower")
+
+2024-10-07 12:37:53,193 - ERROR - Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 5000ms
+  - waiting for get_by_text("Firmowy rower")
+
+2024-10-07 12:38:09,469 - ERROR - Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 5000ms
+  - waiting for get_by_text("Firmowy rower")
+
+2024-10-07 12:38:25,612 - ERROR - Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 5000ms
+  - waiting for get_by_text("Firmowy rower")
+
+2024-10-07 12:38:41,642 - ERROR - Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 5000ms
+  - waiting for get_by_text("Firmowy rower")
+
+2024-10-07 12:38:57,601 - ERROR - Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 5000ms
+  - waiting for get_by_text("Firmowy rower")
+
+2024-10-07 12:39:13,658 - ERROR - Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 5000ms
+  - waiting for get_by_text("Firmowy rower")
+
+2024-10-07 12:39:29,885 - ERROR - Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 5000ms
+  - waiting for get_by_text("Firmowy rower")
+
+2024-10-07 12:39:46,078 - ERROR - Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 5000ms
+  - waiting for get_by_text("Firmowy rower")
+
+2024-10-07 12:40:02,090 - ERROR - Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 5000ms
+  - waiting for get_by_text("Firmowy rower")
+
+2024-10-07 12:40:18,038 - ERROR - Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 5000ms
+  - waiting for get_by_text("Firmowy rower")
+
+2024-10-07 12:40:34,334 - ERROR - Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 5000ms
+  - waiting for get_by_text("Firmowy rower")
+
+2024-10-07 12:40:50,384 - ERROR - Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 5000ms
+  - waiting for get_by_text("Firmowy rower")
+
+2024-10-07 12:41:06,405 - ERROR - Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 5000ms
+  - waiting for get_by_text("Firmowy rower")
+
+2024-10-07 12:41:22,373 - ERROR - Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 5000ms
+  - waiting for get_by_text("Firmowy rower")
+
+2024-10-07 12:41:38,773 - ERROR - Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 5000ms
+  - waiting for get_by_text("Firmowy rower")
+
+2024-10-07 12:41:54,636 - ERROR - Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 5000ms
+  - waiting for get_by_text("Firmowy rower")
+
+2024-10-07 12:42:10,808 - ERROR - Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 5000ms
+  - waiting for get_by_text("Firmowy rower")
+
+2024-10-07 12:42:27,058 - ERROR - Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 5000ms
+  - waiting for get_by_text("Firmowy rower")
+
+2024-10-07 12:42:43,281 - ERROR - Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 5000ms
+  - waiting for get_by_text("Firmowy rower")
+
+2024-10-07 12:42:59,306 - ERROR - Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 5000ms
+  - waiting for get_by_text("Firmowy rower")
+
+2024-10-07 12:43:15,240 - ERROR - Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 5000ms
+  - waiting for get_by_text("Firmowy rower")
+
+2024-10-07 12:43:31,312 - ERROR - Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 5000ms
+  - waiting for get_by_text("Firmowy rower")
+
+2024-10-07 12:43:47,178 - ERROR - Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 5000ms
+  - waiting for get_by_text("Firmowy rower")
+
+2024-10-07 12:44:05,318 - ERROR - Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 5000ms
+  - waiting for get_by_text("Firmowy rower")
+
+2024-10-07 12:44:21,202 - ERROR - Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 5000ms
+  - waiting for get_by_text("Firmowy rower")
+
+2024-10-07 12:44:37,142 - ERROR - Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 5000ms
+  - waiting for get_by_text("Firmowy rower")
+
+2024-10-07 12:44:53,096 - ERROR - Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 5000ms
+  - waiting for get_by_text("Firmowy rower")
+
+2024-10-07 12:45:09,307 - ERROR - Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 5000ms
+  - waiting for get_by_text("Firmowy rower")
+
+2024-10-07 12:45:25,048 - ERROR - Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 5000ms
+  - waiting for get_by_text("Firmowy rower")
+
+2024-10-07 12:45:41,032 - ERROR - Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 5000ms
+  - waiting for get_by_text("Firmowy rower")
+
+2024-10-07 12:45:57,062 - ERROR - Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 5000ms
+  - waiting for get_by_text("Firmowy rower")
+
+2024-10-07 12:46:13,459 - ERROR - Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 5000ms
+  - waiting for get_by_text("Firmowy rower")
+
+2024-10-07 12:46:29,955 - ERROR - Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 5000ms
+  - waiting for get_by_text("Firmowy rower")
+
+2024-10-07 12:46:46,605 - ERROR - Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 5000ms
+  - waiting for get_by_text("Firmowy rower")
+
+2024-10-07 12:49:09,344 - DEBUG - Using proactor: IocpProactor
+2024-10-07 12:49:44,993 - ERROR - error running webinstance: Target page, context or browser has been closed
+2024-10-07 12:51:24,120 - DEBUG - Using proactor: IocpProactor
+2024-10-07 12:52:17,704 - DEBUG - Using proactor: IocpProactor
+2024-10-07 12:52:51,447 - DEBUG - Using proactor: IocpProactor
+2024-10-07 12:53:20,830 - ERROR - error running webinstance: Target page, context or browser has been closed
+2024-10-07 12:54:58,119 - DEBUG - Using proactor: IocpProactor
+2024-10-07 13:00:52,905 - DEBUG - Using proactor: IocpProactor
+2024-10-07 13:01:21,928 - ERROR - error running webinstance: 'dict' object has no attribute '_object'
+2024-10-07 13:04:07,639 - DEBUG - Using proactor: IocpProactor
+2024-10-07 13:04:35,190 - ERROR - Can't find an element: net::ERR_ABORTED; maybe frame was detached?
+2024-10-07 13:49:51,262 - DEBUG - Using proactor: IocpProactor
+2024-10-07 14:13:50,708 - DEBUG - Using proactor: IocpProactor
+2024-10-07 14:14:04,459 - ERROR - Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 14:14:18,314 - ERROR - Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 14:14:31,365 - ERROR - Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 14:14:44,541 - ERROR - Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 14:14:57,709 - ERROR - Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 14:15:11,078 - ERROR - Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 14:15:24,219 - ERROR - Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 14:15:37,275 - ERROR - Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 14:15:50,537 - ERROR - Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 14:16:03,616 - ERROR - Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 14:16:17,333 - ERROR - Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 14:16:30,324 - ERROR - Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 14:16:43,133 - ERROR - Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 14:16:56,411 - ERROR - Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 14:17:09,552 - ERROR - Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 14:17:22,827 - ERROR - Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 14:17:35,723 - ERROR - Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 14:17:48,890 - ERROR - Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 14:18:01,810 - ERROR - Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 14:18:14,620 - ERROR - Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 14:18:27,764 - ERROR - Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 14:18:40,807 - ERROR - Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 14:18:54,071 - ERROR - Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 14:19:07,293 - ERROR - Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 14:19:20,288 - ERROR - Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 14:19:33,348 - ERROR - Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 14:19:46,328 - ERROR - Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 14:19:59,301 - ERROR - Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 14:20:12,311 - ERROR - Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 14:20:25,329 - ERROR - Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 14:20:38,239 - ERROR - Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 14:20:51,432 - ERROR - Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 14:21:04,808 - ERROR - Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 14:21:18,211 - ERROR - Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 14:21:31,270 - ERROR - Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 14:21:44,121 - ERROR - Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 14:21:57,541 - ERROR - Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 14:22:10,345 - ERROR - Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 14:22:23,404 - ERROR - Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 14:22:36,567 - ERROR - Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 14:22:49,580 - ERROR - Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 14:23:02,524 - ERROR - Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 14:23:15,639 - ERROR - Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 14:23:28,636 - ERROR - Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 14:23:41,842 - ERROR - Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 14:23:56,329 - ERROR - Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 14:24:09,696 - ERROR - Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 14:24:23,688 - ERROR - Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 14:24:36,833 - ERROR - Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 14:35:03,945 - DEBUG - Using proactor: IocpProactor
+2024-10-07 14:35:56,500 - ERROR - Bydgoszczy: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 14:36:12,423 - ERROR - Bytomiu: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 14:36:25,374 - ERROR - Chorzowie: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 14:37:30,347 - ERROR - Gdyni: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 14:37:43,255 - ERROR - Gliwice: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 14:37:56,006 - ERROR - Gorz�w Wielkopolski: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 14:38:21,956 - ERROR - Jelenia G�ra: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 14:38:35,107 - ERROR - Kaliszu: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 14:38:48,489 - ERROR - Katowicach: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 14:39:01,470 - ERROR - Kielcach: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 14:39:14,367 - ERROR - Koninie: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 14:39:27,781 - ERROR - Koszalin: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 14:39:40,645 - ERROR - Krakow Nowa Huta: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 14:39:53,358 - ERROR - Krakowie: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 14:40:06,796 - ERROR - Legnicy: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 14:40:19,751 - ERROR - Lublinie: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 14:40:45,682 - ERROR - Nysa: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 14:40:58,718 - ERROR - Olsztynie: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 14:41:11,775 - ERROR - Opolu: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 14:41:24,539 - ERROR - Pabianicach: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 14:41:37,458 - ERROR - Piasecznie: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 14:42:03,391 - ERROR - Piotrkowie Trybunalskim: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 14:42:29,401 - ERROR - Poznaniu: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 14:42:42,631 - ERROR - Pruszkowie: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 14:42:55,660 - ERROR - Raciborzu: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 14:43:08,540 - ERROR - Radomiu: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 14:43:35,139 - ERROR - Rybniku: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 14:43:48,053 - ERROR - Rzeszowie: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 14:44:14,366 - ERROR - Sosnowcu: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 14:44:40,311 - ERROR - Szczecinie: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 14:44:53,307 - ERROR - Toruniu: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 14:45:06,580 - ERROR - Tychach: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 14:45:32,806 - ERROR - Warszawie: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 14:55:12,294 - DEBUG - Using proactor: IocpProactor
+2024-10-07 14:55:25,542 - ERROR - Bełchatów: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 14:55:38,588 - ERROR - Białymstoku: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 14:56:52,907 - DEBUG - Using proactor: IocpProactor
+2024-10-07 14:56:55,939 - DEBUG - Using proactor: IocpProactor
+2024-10-07 14:58:00,028 - DEBUG - Using proactor: IocpProactor
+2024-10-07 14:58:20,654 - DEBUG - Using proactor: IocpProactor
+2024-10-07 14:58:33,212 - ERROR - Bełchatów: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 14:58:46,485 - ERROR - Białymstoku: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 14:58:59,449 - ERROR - Bielsko-Biała: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 14:59:12,286 - ERROR - Bydgoszczy: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 14:59:25,391 - ERROR - Bytomiu: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 14:59:38,172 - ERROR - Chorzowie: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 14:59:50,990 - ERROR - Częstochowie: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 15:00:03,984 - ERROR - Dąbrowa Górnicza: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 15:00:17,027 - ERROR - Gdańsku: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 15:00:30,723 - ERROR - Gdańsk Sopot: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 15:00:43,752 - ERROR - Gdyni: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 15:00:56,774 - ERROR - Gliwice: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 15:01:09,884 - ERROR - Gorzów Wielkopolski: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 15:01:23,467 - ERROR - Grudziądzu: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 15:01:36,403 - ERROR - Jelenia Góra: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 15:01:49,391 - ERROR - Kaliszu: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 15:02:02,312 - ERROR - Katowicach: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 15:02:15,475 - ERROR - Kielcach: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 15:02:28,263 - ERROR - Koninie: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 15:02:41,215 - ERROR - Koszalin: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 15:02:54,354 - ERROR - Krakow Nowa Huta: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 15:03:07,357 - ERROR - Krakowie: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 15:03:20,479 - ERROR - Legnicy: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 15:03:33,486 - ERROR - Lublinie: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 15:03:46,470 - ERROR - Łodzi: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 15:03:59,290 - ERROR - Nysa: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 15:04:13,226 - ERROR - Olsztynie: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 15:04:26,304 - ERROR - Opolu: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 15:04:39,666 - ERROR - Pabianicach: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 15:04:52,624 - ERROR - Piasecznie: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 15:05:05,589 - ERROR - Piła: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 15:05:18,725 - ERROR - Piotrkowie Trybunalskim: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 15:05:31,704 - ERROR - Płocku: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 15:05:44,804 - ERROR - Poznaniu: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 15:05:57,774 - ERROR - Pruszkowie: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 15:06:11,000 - ERROR - Raciborzu: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 15:06:24,451 - ERROR - Radomiu: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 15:06:37,386 - ERROR - Rudzie Śląskiej: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 15:06:50,386 - ERROR - Rybniku: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 15:07:03,179 - ERROR - Rzeszowie: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 15:07:16,216 - ERROR - Słupsku: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 15:07:29,044 - ERROR - Sosnowcu: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 15:07:41,978 - ERROR - Stargardzie Szczecińskim: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 15:07:55,712 - ERROR - Szczecinie: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 15:08:08,594 - ERROR - Toruniu: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 15:08:21,500 - ERROR - Tychach: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 15:08:34,698 - ERROR - Wałbrzychu: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 15:08:47,618 - ERROR - Warszawie: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 15:09:00,631 - ERROR - Wrocławiu: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 15:11:00,959 - DEBUG - Using proactor: IocpProactor
+2024-10-07 15:11:16,605 - ERROR - Bełchatów: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 15:11:36,858 - ERROR - Białymstoku: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 15:11:52,438 - ERROR - Bielsko-Biała: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 15:12:16,889 - ERROR - Bydgoszczy: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 15:12:42,691 - ERROR - Bytomiu: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 15:13:09,549 - ERROR - Chorzowie: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 15:13:36,386 - ERROR - Częstochowie: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 15:14:03,181 - ERROR - Dąbrowa Górnicza: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 15:14:29,957 - ERROR - Gdańsku: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 15:14:55,790 - ERROR - Gdańsk Sopot: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 15:15:22,586 - ERROR - Gdyni: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 15:15:48,425 - ERROR - Gliwice: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 15:16:14,239 - ERROR - Gorzów Wielkopolski: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 15:16:41,046 - ERROR - Grudziądzu: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 15:16:58,195 - ERROR - Jelenia Góra: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 15:17:14,371 - ERROR - Kaliszu: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 15:17:29,810 - ERROR - Katowicach: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 15:17:45,247 - ERROR - Kielcach: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 15:18:00,734 - ERROR - Koninie: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 15:18:16,372 - ERROR - Koszalin: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 15:18:31,847 - ERROR - Krakow Nowa Huta: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 15:18:47,242 - ERROR - Krakowie: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 15:19:02,821 - ERROR - Legnicy: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 15:19:18,395 - ERROR - Lublinie: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 15:19:33,856 - ERROR - Łodzi: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 15:19:49,459 - ERROR - Nysa: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 15:20:04,993 - ERROR - Olsztynie: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 15:20:20,557 - ERROR - Opolu: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 15:20:36,038 - ERROR - Pabianicach: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 15:20:51,277 - ERROR - Piasecznie: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 15:21:06,866 - ERROR - Piła: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 15:21:22,307 - ERROR - Piotrkowie Trybunalskim: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 15:21:37,831 - ERROR - Płocku: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 15:21:53,277 - ERROR - Poznaniu: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 15:22:08,792 - ERROR - Pruszkowie: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 15:22:24,459 - ERROR - Raciborzu: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 15:22:39,818 - ERROR - Radomiu: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 15:22:55,293 - ERROR - Rudzie Śląskiej: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 15:23:10,546 - ERROR - Rybniku: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 15:23:26,107 - ERROR - Rzeszowie: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 15:23:41,541 - ERROR - Słupsku: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 15:23:57,100 - ERROR - Sosnowcu: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 15:24:12,574 - ERROR - Stargardzie Szczecińskim: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 15:24:28,054 - ERROR - Szczecinie: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 15:24:43,595 - ERROR - Toruniu: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 15:24:58,944 - ERROR - Tychach: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 15:25:14,892 - ERROR - Wałbrzychu: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 15:25:30,497 - ERROR - Warszawie: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 15:25:45,976 - ERROR - Wrocławiu: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 15:26:01,596 - ERROR - Zabrzu: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 15:36:44,840 - DEBUG - Using proactor: IocpProactor
+2024-10-07 15:36:56,722 - ERROR - Bełchatów: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 15:37:08,918 - ERROR - Białymstoku: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 15:37:20,777 - ERROR - Bielsko-Biała: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 15:37:32,619 - ERROR - Bydgoszczy: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 15:37:44,716 - ERROR - Bytomiu: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 15:37:56,639 - ERROR - Chorzowie: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 15:38:08,682 - ERROR - Częstochowie: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 15:38:20,484 - ERROR - Dąbrowa Górnicza: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 15:38:32,506 - ERROR - Gdańsku: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 15:38:44,381 - ERROR - Gdańsk Sopot: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 15:38:56,386 - ERROR - Gdyni: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 15:39:08,280 - ERROR - Gliwice: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 15:39:20,391 - ERROR - Gorzów Wielkopolski: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 15:39:32,453 - ERROR - Grudziądzu: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 15:39:44,262 - ERROR - Jelenia Góra: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 15:39:56,290 - ERROR - Kaliszu: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 15:40:08,164 - ERROR - Katowicach: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 15:40:20,017 - ERROR - Kielcach: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 15:40:32,089 - ERROR - Koninie: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 15:40:43,918 - ERROR - Koszalin: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 15:40:55,931 - ERROR - Krakow Nowa Huta: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 15:41:07,936 - ERROR - Krakowie: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 15:41:20,171 - ERROR - Legnicy: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 15:41:32,188 - ERROR - Lublinie: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 15:41:44,116 - ERROR - Łodzi: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 15:41:55,927 - ERROR - Nysa: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 15:42:07,828 - ERROR - Olsztynie: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 15:42:19,993 - ERROR - Opolu: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 15:42:32,086 - ERROR - Pabianicach: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 15:42:44,137 - ERROR - Piasecznie: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 15:42:55,830 - ERROR - Piła: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 15:43:08,212 - ERROR - Piotrkowie Trybunalskim: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 15:43:20,075 - ERROR - Płocku: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 15:43:32,529 - ERROR - Poznaniu: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 15:43:44,658 - ERROR - Pruszkowie: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 15:43:56,599 - ERROR - Raciborzu: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 15:44:08,495 - ERROR - Radomiu: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 15:44:20,525 - ERROR - Rudzie Śląskiej: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 15:44:32,436 - ERROR - Rybniku: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 15:44:44,603 - ERROR - Rzeszowie: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 15:44:56,494 - ERROR - Słupsku: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 15:45:08,554 - ERROR - Sosnowcu: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 15:45:20,444 - ERROR - Stargardzie Szczecińskim: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 15:45:32,333 - ERROR - Szczecinie: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 15:45:44,141 - ERROR - Toruniu: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 15:45:56,205 - ERROR - Tychach: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 15:46:08,061 - ERROR - Wałbrzychu: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 15:46:19,868 - ERROR - Warszawie: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 15:46:31,743 - ERROR - Wrocławiu: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 15:48:22,154 - DEBUG - Using proactor: IocpProactor
+2024-10-07 15:48:32,965 - ERROR - Bełchatów: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 15:48:44,676 - ERROR - Białymstoku: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 15:48:56,077 - ERROR - Bielsko-Biała: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 15:49:07,628 - ERROR - Bydgoszczy: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 15:49:19,010 - ERROR - Bytomiu: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 15:49:30,334 - ERROR - Chorzowie: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 15:49:41,804 - ERROR - Częstochowie: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 15:49:53,307 - ERROR - Dąbrowa Górnicza: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 15:50:04,746 - ERROR - Gdańsku: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 15:50:16,273 - ERROR - Gdańsk Sopot: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 15:50:28,030 - ERROR - Gdyni: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 15:50:39,158 - ERROR - Gliwice: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 15:50:50,856 - ERROR - Gorzów Wielkopolski: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 15:51:02,274 - ERROR - Grudziądzu: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 15:51:13,571 - ERROR - Jelenia Góra: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 15:51:25,101 - ERROR - Kaliszu: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 15:51:36,605 - ERROR - Katowicach: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 15:51:48,182 - ERROR - Kielcach: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 15:51:59,666 - ERROR - Koninie: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 15:52:11,030 - ERROR - Koszalin: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 15:52:22,468 - ERROR - Krakow Nowa Huta: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 15:52:35,689 - ERROR - Krakowie: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 15:52:47,133 - ERROR - Legnicy: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 15:52:58,584 - ERROR - Lublinie: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 15:53:09,949 - ERROR - Łodzi: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 15:53:21,209 - ERROR - Nysa: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 15:53:32,748 - ERROR - Olsztynie: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 15:53:44,088 - ERROR - Opolu: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 15:53:55,768 - ERROR - Pabianicach: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 15:54:07,234 - ERROR - Piasecznie: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 15:54:18,840 - ERROR - Piła: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 15:54:30,316 - ERROR - Piotrkowie Trybunalskim: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 15:54:41,859 - ERROR - Płocku: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 15:54:53,905 - ERROR - Poznaniu: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 15:55:05,446 - ERROR - Pruszkowie: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 15:55:16,626 - ERROR - Raciborzu: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 15:55:28,341 - ERROR - Radomiu: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 15:55:39,716 - ERROR - Rudzie Śląskiej: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 15:55:51,083 - ERROR - Rybniku: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 15:56:02,411 - ERROR - Rzeszowie: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 15:56:13,664 - ERROR - Słupsku: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 15:56:25,163 - ERROR - Sosnowcu: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 15:56:36,548 - ERROR - Stargardzie Szczecińskim: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 15:56:48,347 - ERROR - Szczecinie: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 15:56:59,462 - ERROR - Toruniu: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 15:57:10,832 - ERROR - Tychach: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 15:57:22,279 - ERROR - Wałbrzychu: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 15:57:33,590 - ERROR - Warszawie: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 15:57:45,066 - ERROR - Wrocławiu: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 15:59:22,224 - DEBUG - Using proactor: IocpProactor
+2024-10-07 15:59:35,914 - ERROR - Radomiu: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 15:59:46,964 - ERROR - Rudzie Śląskiej: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 15:59:56,044 - DEBUG - Using proactor: IocpProactor
+2024-10-07 16:00:06,575 - ERROR - Wałbrzychu: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 16:00:18,107 - ERROR - Warszawie: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 16:00:29,337 - ERROR - Wrocławiu: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 16:00:40,838 - ERROR - Zabrzu: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 16:02:59,834 - DEBUG - Using proactor: IocpProactor
+2024-10-07 16:03:11,656 - ERROR - Wałbrzychu: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 16:03:23,082 - ERROR - Warszawie: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 16:03:34,482 - ERROR - Wrocławiu: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 16:03:45,585 - ERROR - Zabrzu: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 16:03:56,923 - ERROR - Zakopane: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 16:04:08,196 - ERROR - Zgierzu: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 16:04:19,632 - ERROR - Zielonej Górze: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 16:04:30,999 - ERROR - Żywcu: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 16:04:35,430 - INFO - FINAL list of cities with rower:
+2024-10-07 16:09:44,326 - DEBUG - Using proactor: IocpProactor
+2024-10-07 16:10:02,292 - DEBUG - Using proactor: IocpProactor
+2024-10-07 16:10:13,638 - DEBUG - Using proactor: IocpProactor
+2024-10-07 16:10:24,544 - ERROR - Bełchatów: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 16:10:36,024 - ERROR - Białymstoku: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 16:10:47,320 - ERROR - Bielsko-Biała: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 16:10:58,536 - ERROR - Bydgoszczy: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 16:11:10,035 - ERROR - Bytomiu: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 16:11:46,442 - ERROR - error running webinstance: Timeout 30000ms exceeded.
+2024-10-07 16:15:35,562 - DEBUG - Using proactor: IocpProactor
+2024-10-07 16:15:46,493 - ERROR - Bełchatów: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 16:15:58,478 - ERROR - Białymstoku: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 16:16:10,098 - ERROR - Bielsko-Biała: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 16:16:21,420 - ERROR - Bydgoszczy: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 16:16:32,924 - ERROR - Bytomiu: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 16:16:44,537 - ERROR - Chorzowie: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 16:16:56,230 - ERROR - Częstochowie: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 16:17:07,661 - ERROR - Dąbrowa Górnicza: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 16:17:19,388 - ERROR - Gdańsku: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 16:17:30,962 - ERROR - Gdańsk Sopot: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 16:17:42,944 - ERROR - Gdyni: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 16:17:54,262 - ERROR - Gliwice: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 16:18:05,621 - ERROR - Gorzów Wielkopolski: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 16:18:16,866 - ERROR - Grudziądzu: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 16:18:28,543 - ERROR - Jelenia Góra: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 16:18:39,781 - ERROR - Kaliszu: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 16:18:51,235 - ERROR - Katowicach: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 16:19:02,681 - ERROR - Kielcach: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 16:19:14,251 - ERROR - Koninie: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 16:19:25,731 - ERROR - Koszalin: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 16:19:37,457 - ERROR - Krakow Nowa Huta: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 16:19:49,075 - ERROR - Krakowie: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 16:20:00,484 - ERROR - Legnicy: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 16:20:12,005 - ERROR - Lublinie: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 16:20:23,540 - ERROR - Łodzi: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 16:20:35,553 - ERROR - Nysa: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 16:20:47,065 - ERROR - Olsztynie: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 16:20:58,568 - ERROR - Opolu: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 16:21:10,159 - ERROR - Pabianicach: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 16:21:25,007 - ERROR - Piasecznie: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 16:21:36,528 - ERROR - Piła: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 16:21:48,104 - ERROR - Piotrkowie Trybunalskim: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 16:21:59,673 - ERROR - Płocku: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 16:22:11,280 - ERROR - Poznaniu: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 16:22:22,725 - ERROR - Pruszkowie: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 16:22:34,131 - ERROR - Raciborzu: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 16:22:45,711 - ERROR - Radomiu: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 16:22:57,655 - ERROR - Rudzie Śląskiej: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 16:23:09,119 - ERROR - Rybniku: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 16:23:20,871 - ERROR - Rzeszowie: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 16:23:32,547 - ERROR - Słupsku: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 16:23:43,970 - ERROR - Sosnowcu: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 16:23:55,186 - ERROR - Stargardzie Szczecińskim: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 16:24:06,658 - ERROR - Szczecinie: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 16:24:18,259 - ERROR - Toruniu: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 16:24:29,994 - ERROR - Tychach: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 16:24:41,684 - ERROR - Wałbrzychu: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 16:24:53,263 - ERROR - Warszawie: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 16:25:04,759 - ERROR - Wrocławiu: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 17:37:53,971 - DEBUG - Using proactor: IocpProactor
+2024-10-07 17:38:11,691 - DEBUG - Using proactor: IocpProactor
+2024-10-07 17:38:23,061 - ERROR - Bełchatów: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 17:38:34,857 - ERROR - Białymstoku: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 17:38:46,584 - ERROR - Bielsko-Biała: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 17:38:58,457 - ERROR - Bydgoszczy: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 17:39:11,490 - ERROR - Bytomiu: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 17:39:23,209 - ERROR - Chorzowie: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 17:39:34,978 - ERROR - Częstochowie: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 17:39:46,903 - ERROR - Dąbrowa Górnicza: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 17:39:58,618 - ERROR - Gdańsku: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 17:40:10,431 - ERROR - Gdańsk Sopot: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 17:40:22,177 - ERROR - Gdyni: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 17:40:35,361 - ERROR - Gliwice: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 17:40:47,230 - ERROR - Gorzów Wielkopolski: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 17:40:59,061 - ERROR - Grudziądzu: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 17:41:10,416 - ERROR - Jelenia Góra: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 17:41:22,154 - ERROR - Kaliszu: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 17:41:34,095 - ERROR - Katowicach: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 17:41:45,934 - ERROR - Kielcach: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 17:41:57,426 - ERROR - Koninie: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 17:42:09,041 - ERROR - Koszalin: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 17:42:20,489 - ERROR - Krakow Nowa Huta: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 17:42:32,535 - ERROR - Krakowie: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 17:42:44,161 - ERROR - Legnicy: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 17:42:55,684 - ERROR - Lublinie: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 17:43:07,140 - ERROR - Łodzi: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 17:43:19,248 - ERROR - Nysa: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 17:43:30,830 - ERROR - Olsztynie: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 17:43:42,299 - ERROR - Opolu: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 17:43:53,782 - ERROR - Pabianicach: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 17:44:05,498 - ERROR - Piasecznie: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 17:44:17,035 - ERROR - Piła: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 17:44:28,231 - ERROR - Piotrkowie Trybunalskim: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 17:44:39,774 - ERROR - Płocku: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 17:44:51,584 - ERROR - Poznaniu: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 17:45:03,265 - ERROR - Pruszkowie: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 17:45:14,638 - ERROR - Raciborzu: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 17:45:26,232 - ERROR - Radomiu: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 17:45:37,967 - ERROR - Rudzie Śląskiej: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 17:45:49,443 - ERROR - Rybniku: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 17:46:01,028 - ERROR - Rzeszowie: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 17:46:12,433 - ERROR - Słupsku: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 17:46:23,809 - ERROR - Sosnowcu: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 17:46:35,718 - ERROR - Stargardzie Szczecińskim: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 17:46:47,402 - ERROR - Szczecinie: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 17:46:59,152 - ERROR - Toruniu: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 17:47:10,452 - ERROR - Tychach: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 17:47:21,949 - ERROR - Wałbrzychu: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 17:47:33,855 - ERROR - Warszawie: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-07 17:47:45,462 - ERROR - Wrocławiu: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-08 04:01:13,456 - DEBUG - Using proactor: IocpProactor
+2024-10-08 04:01:25,266 - ERROR - Bełchatów: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-08 04:01:37,201 - ERROR - Białymstoku: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-08 04:01:48,808 - ERROR - Bielsko-Biała: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-08 04:02:00,633 - ERROR - Bydgoszczy: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-08 04:02:12,284 - ERROR - Bytomiu: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-08 04:02:23,811 - ERROR - Chorzowie: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-08 04:02:35,633 - ERROR - Częstochowie: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-08 04:02:47,854 - ERROR - Dąbrowa Górnicza: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-08 04:02:59,397 - ERROR - Gdańsku: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-08 04:03:11,023 - ERROR - Gdańsk Sopot: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-08 04:03:22,623 - ERROR - Gdyni: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-08 04:03:37,430 - ERROR - Gliwice: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-08 04:03:49,228 - ERROR - Gorzów Wielkopolski: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-08 04:04:00,995 - ERROR - Grudziądzu: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-08 04:04:12,532 - ERROR - Jelenia Góra: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-08 04:04:24,266 - ERROR - Kaliszu: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-08 04:04:35,796 - ERROR - Katowicach: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-08 04:04:47,352 - ERROR - Kielcach: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-08 04:04:58,968 - ERROR - Koninie: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-08 04:05:10,549 - ERROR - Koszalin: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-08 04:05:22,204 - ERROR - Krakow Nowa Huta: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-08 04:05:33,727 - ERROR - Krakowie: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-08 04:05:45,379 - ERROR - Legnicy: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-08 04:05:56,996 - ERROR - Lublinie: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-08 04:06:08,514 - ERROR - Łodzi: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-08 04:06:20,076 - ERROR - Nysa: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-08 04:06:31,755 - ERROR - Olsztynie: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-08 04:06:43,271 - ERROR - Opolu: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-08 04:06:54,920 - ERROR - Pabianicach: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-08 04:07:06,634 - ERROR - Piasecznie: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-08 04:07:18,131 - ERROR - Piła: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-08 04:07:29,582 - ERROR - Piotrkowie Trybunalskim: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-08 04:07:41,222 - ERROR - Płocku: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-08 04:07:52,733 - ERROR - Poznaniu: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-08 04:08:04,667 - ERROR - Pruszkowie: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-08 04:08:16,417 - ERROR - Raciborzu: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-08 04:08:28,492 - ERROR - Radomiu: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-08 04:08:40,188 - ERROR - Rudzie Śląskiej: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-08 04:08:51,675 - ERROR - Rybniku: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-08 04:09:03,531 - ERROR - Rzeszowie: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-08 04:09:15,138 - ERROR - Słupsku: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-08 04:09:26,775 - ERROR - Sosnowcu: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-08 04:09:38,875 - ERROR - Stargardzie Szczecińskim: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-08 04:09:50,843 - ERROR - Szczecinie: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-08 04:10:02,335 - ERROR - Toruniu: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-08 04:10:14,021 - ERROR - Tychach: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-08 04:10:25,826 - ERROR - Wałbrzychu: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-08 04:10:37,314 - ERROR - Warszawie: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
+2024-10-08 04:10:48,746 - ERROR - Wrocławiu: Can't find an element: Locator expected to be visible
+Actual value: None 
+Call log:
+LocatorAssertions.to_be_visible with timeout 2500ms
+  - waiting for get_by_text(re.compile(r"Firmowy (e-)?rower"))
+
